@@ -1,5 +1,3 @@
-
-
 def unique_values_counts_table(data, columns):
     tables = []
 
